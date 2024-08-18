@@ -1,6 +1,6 @@
 # Research & Project approval (Part 1)
 
-- By Michelle Lai
+- By SAMUEL ABERRA
 - Weight: 1
 - Project to be done in teams of 3 people
 - Ongoing project - started
