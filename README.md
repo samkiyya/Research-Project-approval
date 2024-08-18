@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository documents the research and approval process for our portfolio project, which will eventually serve as a showcase of skills and achievements. The project proposal, MVP, and Trello board development are key elements of this phase.
+This repository documents the research and approval process for our portfolio project, which will eventually serve as a showcase of skills and achievements.
+The project proposal, MVP, and Trello board development are key elements of this phase.
 
 ## Table of Contents
 
